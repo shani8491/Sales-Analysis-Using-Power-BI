@@ -12,3 +12,4 @@ The report also provides an in-depth sales analysis across various geographic le
 
 Conclusion:
 Overall, this repository provides a robust framework for analyzing sales and shipping data, offering actionable insights that can be used to enhance sales strategies and operational efficiency. The visualizations and data tables are designed to be interactive and easily interpretable, ensuring stakeholders can quickly derive meaningful conclusions from the report.
+https://github.com/user-attachments/assets/a714061c-c804-426c-9c1f-32bab3fb75b5
